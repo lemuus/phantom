@@ -1,0 +1,14 @@
+{
+	"category" : "Phantom-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PhantomDemo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

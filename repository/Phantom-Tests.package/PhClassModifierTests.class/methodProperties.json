@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAddNewClassMethod" : "dgg 9/29/2011 14:26",
+		"testAddNewClassVar" : "dgg 9/29/2011 14:26",
+		"testAddNewInstanceMethod" : "dgg 9/29/2011 14:27",
+		"testAddNewInstanceVar" : "dgg 9/29/2011 14:27",
+		"testCompleModification" : "dgg 9/29/2011 14:27",
+		"testMultipointcut" : "dgg 10/7/2011 18:37",
+		"testPointcutWithSubclasses" : "dgg 10/7/2011 18:36",
+		"testSimplePointcutAsArgument" : "dgg 9/29/2011 14:17" } }

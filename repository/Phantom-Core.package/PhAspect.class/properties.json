@@ -1,0 +1,20 @@
+{
+	"category" : "Phantom-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DanielGaldames 4/13/2011 23:50",
+	"instvars" : [
+		"adviceCollection",
+		"precedence",
+		"classModifiers",
+		"installed",
+		"onMembranes",
+		"membrane",
+		"aspectMembrane" ],
+	"name" : "PhAspect",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

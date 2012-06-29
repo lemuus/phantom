@@ -1,0 +1,14 @@
+{
+	"category" : "Phantom-Examples-Telecom",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PhTelecomTimingSimulation",
+	"pools" : [
+		 ],
+	"super" : "PhTelecomAbstractSimulation",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "Phantom-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DanielGaldames 4/13/2011 23:36",
+	"instvars" : [
+		"type",
+		"pointcut",
+		"advice",
+		"owner" ],
+	"name" : "PhAdvice",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Phantom-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PhMockAspectFoo1",
+	"pools" : [
+		 ],
+	"super" : "PhMockAspectFoo",
+	"type" : "normal" }

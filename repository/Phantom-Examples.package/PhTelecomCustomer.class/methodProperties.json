@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"name:areaCode:" : "DanielGaldames 4/6/2011 14:49" },
+	"instance" : {
+		"addCall:" : "DanielGaldames 4/6/2011 17:24",
+		"areaCode" : "DanielGaldames 4/6/2011 17:50",
+		"areaCode:" : "DanielGaldames 4/6/2011 14:49",
+		"call:" : "DanielGaldames 4/6/2011 17:15",
+		"customerName:" : "DanielGaldames 4/6/2011 14:48",
+		"hangup:" : "DanielGaldames 4/6/2011 17:56",
+		"initialize" : "DanielGaldames 4/13/2011 22:52",
+		"localTo:" : "DanielGaldames 4/6/2011 17:50",
+		"pickup:" : "DanielGaldames 4/6/2011 17:27",
+		"printOn:" : "DanielGaldames 4/6/2011 18:09",
+		"removeCall:" : "DanielGaldames 4/6/2011 17:58" } }

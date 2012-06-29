@@ -1,0 +1,14 @@
+{
+	"category" : "MethodWrappers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"hasRun" ],
+	"name" : "TestCoverageMethodWrapper",
+	"pools" : [
+		 ],
+	"super" : "ObjectAsMethodWrapper",
+	"type" : "normal" }

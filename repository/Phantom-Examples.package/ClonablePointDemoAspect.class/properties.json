@@ -1,0 +1,14 @@
+{
+	"category" : "Phantom-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ClonablePointDemoAspect",
+	"pools" : [
+		 ],
+	"super" : "PhAspect",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfPhantom",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfPhantom",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

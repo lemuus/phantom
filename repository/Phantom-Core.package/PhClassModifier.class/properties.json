@@ -1,0 +1,19 @@
+{
+	"category" : "Phantom-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DanielGaldames 4/14/2011 01:22",
+	"instvars" : [
+		"pointcut",
+		"newInstanceMethodDict",
+		"newClassMethodDict",
+		"newInstanceVar",
+		"newClassVar",
+		"modifiedClasses" ],
+	"name" : "PhClassModifier",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

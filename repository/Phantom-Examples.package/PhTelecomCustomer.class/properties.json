@@ -1,0 +1,16 @@
+{
+	"category" : "Phantom-Examples-Telecom",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"areaCode",
+		"calls" ],
+	"name" : "PhTelecomCustomer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

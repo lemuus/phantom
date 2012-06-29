@@ -1,0 +1,37 @@
+initialize-release
+activateSystemNotification
+	SystemChangeNotifier uniqueInstance
+		notify: self
+		ofSystemChangesOfItem: #class
+		change: #Added
+		using: #verifyNewClass:.
+	SystemChangeNotifier uniqueInstance
+		notify: self
+		ofSystemChangesOfItem: #class
+		change: #Modified
+		using: #systemEvent:.
+	SystemChangeNotifier uniqueInstance
+		notify: self
+		ofSystemChangesOfItem: #class
+		change: #Removed
+		using: #systemEvent:.
+	SystemChangeNotifier uniqueInstance
+		notify: self
+		ofSystemChangesOfItem: #class
+		change: #Renamed
+		using: #classRename:.
+	SystemChangeNotifier uniqueInstance
+		notify: self
+		ofSystemChangesOfItem: #method
+		change: #Added
+		using: #verifyNewMethod:.
+	SystemChangeNotifier uniqueInstance
+		notify: self
+		ofSystemChangesOfItem: #method
+		change: #Modified
+		using: #methodModification:.
+	SystemChangeNotifier uniqueInstance
+		notify: self
+		ofSystemChangesOfItem: #method
+		change: #Removed
+		using: #methodRemoved:

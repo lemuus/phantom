@@ -1,0 +1,17 @@
+{
+	"category" : "Phantom-PrecedenceGraph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"visitedNodes",
+		"cycle",
+		"lastVisited",
+		"orderedNodes" ],
+	"name" : "AspectNodeVisitor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

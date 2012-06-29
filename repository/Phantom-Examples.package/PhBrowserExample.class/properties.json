@@ -1,0 +1,14 @@
+{
+	"category" : "Phantom-Examples-Membranes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PhBrowserExample",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

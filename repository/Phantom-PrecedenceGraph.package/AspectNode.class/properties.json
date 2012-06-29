@@ -1,0 +1,18 @@
+{
+	"category" : "Phantom-PrecedenceGraph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"aspect",
+		"subnodes",
+		"name",
+		"precedence",
+		"parents" ],
+	"name" : "AspectNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

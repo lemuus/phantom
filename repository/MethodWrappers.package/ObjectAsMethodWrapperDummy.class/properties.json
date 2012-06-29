@@ -1,0 +1,14 @@
+{
+	"category" : "MethodWrappers-Dummies",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ObjectAsMethodWrapperDummy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

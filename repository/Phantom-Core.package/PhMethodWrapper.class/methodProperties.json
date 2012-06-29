@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"currentSender" : "dgg 1/26/2012 16:44",
+		"initialize" : "dgg 4/28/2011 16:02",
+		"install" : "dgg 10/8/2011 17:17",
+		"needCleanUp" : "dgg 4/28/2011 16:05",
+		"needCleanUp:" : "dgg 4/28/2011 16:05",
+		"uninstall" : "dgg 3/24/2012 13:17" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Phantom-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cflowDef" ],
+	"name" : "CflowPointcut",
+	"pools" : [
+		 ],
+	"super" : "PhPointcut",
+	"type" : "normal" }

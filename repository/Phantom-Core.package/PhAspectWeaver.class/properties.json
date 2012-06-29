@@ -1,0 +1,17 @@
+{
+	"category" : "Phantom-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"InstalledMembranes",
+		"ObjectInstalledMembranes",
+		"UpdateEnabled",
+		"WrapperList" ],
+	"commentStamp" : "DanielGaldames 4/14/2011 01:11",
+	"instvars" : [
+		 ],
+	"name" : "PhAspectWeaver",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Phantom-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CallDepth",
+		"TraceLevel",
+		"TraceStream" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PhantomDemoTrace",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

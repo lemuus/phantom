@@ -1,0 +1,19 @@
+{
+	"category" : "Phantom-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"x",
+		"y",
+		"theta",
+		"rho",
+		"rectangular",
+		"polar" ],
+	"name" : "PhantomDemoPoint",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

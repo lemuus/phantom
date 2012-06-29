@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"initStream:" : "DanielGaldames 4/22/2011 18:28",
+		"initialize" : "DanielGaldames 4/22/2011 18:29",
+		"printEntering:" : "DanielGaldames 4/22/2011 18:28",
+		"printExiting:" : "DanielGaldames 4/22/2011 18:28",
+		"printIdent" : "DanielGaldames 4/22/2011 18:28",
+		"traceEntry:" : "DanielGaldames 4/22/2011 18:29",
+		"traceExit:" : "DanielGaldames 4/22/2011 18:29",
+		"traceStream" : "DanielGaldames 4/22/2011 18:28",
+		"tracelevel" : "DanielGaldames 4/22/2011 18:29",
+		"tracelevel:" : "DanielGaldames 4/22/2011 18:29" },
+	"instance" : {
+		 } }

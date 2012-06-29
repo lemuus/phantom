@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"DevelopmentSupport" : "DanielGaldames 4/14/2011 13:00",
+		"baseConfigurationClassIfAbsent:" : "DanielGaldames 4/14/2011 13:00",
+		"ensureMetacello" : "DanielGaldames 4/14/2011 13:00",
+		"ensureMetacelloBaseConfiguration" : "DanielGaldames 4/14/2011 13:00",
+		"isMetacelloConfig" : "DanielGaldames 4/14/2011 13:00",
+		"load" : "DanielGaldames 4/14/2011 13:00",
+		"loadBleedingEdge" : "DanielGaldames 4/14/2011 13:00",
+		"loadDevelopment" : "DanielGaldames 4/14/2011 13:00",
+		"project" : "DanielGaldames 4/14/2011 13:00",
+		"validate" : "DanielGaldames 4/14/2011 13:00" },
+	"instance" : {
+		"baseline10:" : "dgg 1/26/2012 15:29",
+		"development:" : "dgg 9/18/2011 17:17",
+		"project" : "DanielGaldames 4/14/2011 13:00",
+		"stable:" : "dgg 9/18/2011 17:17",
+		"version10:" : "DanielGaldames 4/22/2011 19:17",
+		"version11:" : "dgg 5/4/2011 12:26",
+		"version121:" : "dgg 12/1/2011 12:24",
+		"version122:" : "dgg 3/25/2012 12:23",
+		"version12:" : "dgg 5/15/2011 19:01" } }

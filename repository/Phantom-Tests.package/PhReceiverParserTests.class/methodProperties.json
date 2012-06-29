@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testClassMatch" : "DanielGaldames 3/16/2011 00:14",
+		"testClassMetaMatch" : "DanielGaldames 3/16/2011 00:20",
+		"testClassMetaPlusMatch" : "DanielGaldames 3/21/2011 14:52",
+		"testClassMetaStarMatch" : "dgg 1/14/2012 13:36",
+		"testClassName" : "DanielGaldames 3/15/2011 23:17",
+		"testClassNameMetaPlus" : "DanielGaldames 3/15/2011 23:26",
+		"testClassNameMetaStar" : "DanielGaldames 3/15/2011 23:25",
+		"testClassNamePlus" : "DanielGaldames 3/15/2011 23:27",
+		"testClassNameStar" : "DanielGaldames 3/30/2011 20:32",
+		"testClassPlusMatch" : "DanielGaldames 3/21/2011 14:51",
+		"testClassStarMatch" : "DanielGaldames 3/16/2011 00:54",
+		"testClassStarMetaMatch" : "DanielGaldames 3/18/2011 01:12",
+		"testClassStarMetaPlusMatch" : "DanielGaldames 3/21/2011 14:52",
+		"testClassStarPlusMatch" : "DanielGaldames 3/21/2011 14:52",
+		"testStarClassMatch" : "DanielGaldames 3/16/2011 00:54",
+		"testStarClassMetaMatch" : "DanielGaldames 3/18/2011 01:13",
+		"testStarClassMetaPlusMatch" : "DanielGaldames 3/21/2011 14:53",
+		"testStarClassPlusMatch" : "DanielGaldames 3/21/2011 14:52",
+		"testStarClassStarMatch" : "DanielGaldames 3/16/2011 00:53",
+		"testStarClassStarMetaMatch" : "DanielGaldames 3/18/2011 01:13",
+		"testStarClassStarMetaPlusMatch" : "DanielGaldames 3/21/2011 14:53",
+		"testStarClassStarPlusMatch" : "DanielGaldames 3/21/2011 14:52" } }

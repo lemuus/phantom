@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testCombinedIfPointcut" : "dgg 11/12/2011 20:13",
+		"testCombinedIfPointcut2" : "dgg 1/25/2012 17:06",
+		"testContextIfPointcut" : "dgg 11/12/2011 16:59",
+		"testEmptyContextFalseIfPointcut" : "dgg 11/12/2011 16:55",
+		"testEmptyContextTrueIfPointcut" : "dgg 11/12/2011 16:54" } }

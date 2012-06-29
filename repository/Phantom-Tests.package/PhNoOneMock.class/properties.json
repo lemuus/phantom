@@ -1,0 +1,14 @@
+{
+	"category" : "Phantom-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PhNoOneMock",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

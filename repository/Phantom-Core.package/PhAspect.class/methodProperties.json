@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add:" : "dgg 3/24/2012 12:51",
+		"addClassModifier:" : "dgg 3/24/2012 12:51",
+		"adviceCollection" : "DanielGaldames 3/20/2011 16:50",
+		"aspectMembrane" : "dgg 3/13/2012 20:35",
+		"classModifiers" : "dgg 6/23/2011 16:38",
+		"getPointcuts" : "dgg 6/26/2011 12:58",
+		"includes:on:" : "dgg 12/20/2011 17:59",
+		"initialize" : "dgg 5/1/2011 21:17",
+		"install" : "dgg 6/26/2011 12:59",
+		"installClassModification" : "dgg 3/24/2012 13:06",
+		"mayInclude:" : "dgg 12/20/2011 18:11",
+		"onMembranes" : "dgg 5/1/2011 21:25",
+		"onMembranes:" : "dgg 5/1/2011 21:25",
+		"precedence" : "DanielGaldames 3/25/2011 20:13",
+		"precedence:" : "DanielGaldames 3/25/2011 20:13",
+		"registerOn:" : "dgg 3/24/2012 13:08",
+		"remove:" : "dgg 3/24/2012 13:09",
+		"removeClassModifier:" : "dgg 3/24/2012 13:09",
+		"uninstall" : "dgg 9/18/2011 14:54",
+		"uninstallClassModification" : "dgg 3/24/2012 13:09",
+		"unregisterFrom:" : "dgg 3/24/2012 13:09" } }

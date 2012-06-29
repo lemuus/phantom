@@ -1,0 +1,15 @@
+{
+	"category" : "Phantom-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"counter",
+		"testString" ],
+	"name" : "PhMockMockClass",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

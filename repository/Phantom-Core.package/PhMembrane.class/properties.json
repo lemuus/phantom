@@ -1,0 +1,17 @@
+{
+	"category" : "Phantom-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"advisedMembranes",
+		"pointcut",
+		"registeredAspects",
+		"advisingMembranes" ],
+	"name" : "PhMembrane",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

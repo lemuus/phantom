@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAspectParser" : "DanielGaldames 3/29/2011 22:09",
+		"testAspectPlusParser" : "DanielGaldames 3/24/2011 00:19",
+		"testAspectPlusPrecedenceMatch" : "DanielGaldames 3/25/2011 12:14",
+		"testAspectStarParser" : "DanielGaldames 3/24/2011 00:23",
+		"testAspectStarPlusParser" : "DanielGaldames 3/24/2011 00:24",
+		"testAspectStarPrecedenceMatch" : "DanielGaldames 3/25/2011 12:14",
+		"testStarAspectParser" : "DanielGaldames 3/24/2011 00:24",
+		"testStarAspectPlusParser" : "DanielGaldames 3/24/2011 00:25",
+		"testStarAspectPrecedenceMatch" : "DanielGaldames 3/25/2011 12:15",
+		"testStarAspectStarParser" : "DanielGaldames 3/24/2011 00:27",
+		"testStarAspectStarPlusParser" : "DanielGaldames 3/24/2011 00:31",
+		"testStarAspectStarPrecedenceMatch" : "DanielGaldames 3/25/2011 12:13" } }

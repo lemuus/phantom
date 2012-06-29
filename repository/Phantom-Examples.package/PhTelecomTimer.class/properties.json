@@ -1,0 +1,15 @@
+{
+	"category" : "Phantom-Examples-Telecom",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"startTime",
+		"stopTime" ],
+	"name" : "PhTelecomTimer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

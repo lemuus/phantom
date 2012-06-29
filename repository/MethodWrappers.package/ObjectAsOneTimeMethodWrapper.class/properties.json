@@ -1,0 +1,14 @@
+{
+	"category" : "MethodWrappers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"executed" ],
+	"name" : "ObjectAsOneTimeMethodWrapper",
+	"pools" : [
+		 ],
+	"super" : "ObjectAsMethodWrapper",
+	"type" : "normal" }

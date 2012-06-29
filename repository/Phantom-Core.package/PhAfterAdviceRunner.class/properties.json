@@ -1,0 +1,14 @@
+{
+	"category" : "Phantom-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PhAfterAdviceRunner",
+	"pools" : [
+		 ],
+	"super" : "PhAdviceRunner",
+	"type" : "normal" }

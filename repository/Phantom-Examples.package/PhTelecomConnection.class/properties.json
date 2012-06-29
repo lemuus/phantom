@@ -1,0 +1,16 @@
+{
+	"category" : "Phantom-Examples-Telecom",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"caller",
+		"receiver",
+		"state" ],
+	"name" : "PhTelecomConnection",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

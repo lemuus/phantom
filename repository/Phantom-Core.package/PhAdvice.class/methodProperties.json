@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"after:advice:" : "johanfabry 10/6/2011 14:43",
+		"after:send:to:" : "johanfabry 10/6/2011 14:45",
+		"around:advice:" : "johanfabry 10/6/2011 14:43",
+		"around:send:to:" : "johanfabry 10/6/2011 14:45",
+		"before:advice:" : "johanfabry 10/6/2011 14:43",
+		"before:send:to:" : "johanfabry 10/6/2011 14:45" },
+	"instance" : {
+		"advice:" : "dgg 6/3/2011 13:16",
+		"isActiveOnCflowOf:" : "dgg 3/24/2012 12:35",
+		"owner" : "DanielGaldames 3/25/2011 22:15",
+		"owner:" : "DanielGaldames 3/25/2011 22:14",
+		"pointcut" : "DanielGaldames 3/8/2011 16:50",
+		"pointcut:" : "DanielGaldames 3/8/2011 16:50",
+		"runWithin:" : "dgg 6/3/2011 13:17",
+		"send:to:" : "johanfabry 10/7/2011 16:43",
+		"type" : "DanielGaldames 3/8/2011 16:51",
+		"type:" : "DanielGaldames 3/8/2011 16:51" } }

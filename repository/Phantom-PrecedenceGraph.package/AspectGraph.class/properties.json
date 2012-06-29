@@ -1,0 +1,14 @@
+{
+	"category" : "Phantom-PrecedenceGraph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"nodeSet" ],
+	"name" : "AspectGraph",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

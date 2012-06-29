@@ -1,0 +1,15 @@
+{
+	"category" : "Phantom-Examples-Telecom",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Asp",
+		"EndTimingPointcut" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PhTelecomAspectTiming",
+	"pools" : [
+		 ],
+	"super" : "PhAspect",
+	"type" : "normal" }
